@@ -57,4 +57,8 @@ versus consulting companies), which are driven out of tags.
 | TableXI | Done | Noel @ email |
 | TrunkClub | Done | Mike @ LinkedIn |
 | Vokal | Stopped? | Marty @ LinkedIn |
+| OppLoans | Done | No Response - emailed Alex Riewer (Senior Technical Recruiter) https://www.linkedin.com/in/alexandrariewer/ |
+| Gemini | Done | No Response - emailed Jonathan Tamblyn and Andrei Montchik (Director Talent Acquisition & Lead Software Engineer) https://www.linkedin.com/in/jonathan-tamblyn/ & https://www.linkedin.com/in/andreimontchik/ |
+| Root Insurance | Done | No Response - emailed Chris Evans (Technical Recruiting Manager) https://www.linkedin.com/in/cjevans7/ |
+| Reverb | Done | No Response - emailed Mark Yoon and Tiffany Martin (Engineering Manager and Senior Technical Manager) https://www.linkedin.com/in/swimmerslim/ & https://www.linkedin.com/in/tiffanymartininhudson/ |
 -----------------------------------
